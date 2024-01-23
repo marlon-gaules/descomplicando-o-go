@@ -1,0 +1,3 @@
+descomplicando-o-go
+
+Esse repositório foi criado para guardar alguns conteúdos relacionado ao curso descomplicando o go, aqui vamos ver a sintaxe básica de Go, algumas coisas relacionadas a aplicações Web, aplicações de linha de comando, conceitos de orientação a objeto, e ferramentas importantes para trabalhar com a linguagem Go, testes de código, conceitos de concorrência e paralelismo e como aplicá-los em Go, e uma pipeline de entrega contínua!
