@@ -7,7 +7,6 @@ import (
 	"net/http"
 )
 
-//da lista para baixo são strings anônimas
 type PokemonGetResponse struct {
 	Count    int64
 	Next     string
